@@ -13,7 +13,7 @@ labyrinth is represented lying down (x and y inverted) and I want to modify this
 
 Several parts of the architecture are going to change too.
 
-License
+## License
 See the [LICENSE](https://github.com/Amable-Valdes/Maze-Solving-Algorithms-in-Java/blob/master/LICENSE) 
 file for license rights and limitations (GNU General Public License v3.0).
 
